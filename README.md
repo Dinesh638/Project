@@ -6,4 +6,4 @@ Things to be followed Before Running this project:-
 proper hibernate annotation in you model class.
 4) And then just right MiniProjectApplication.class file and then go to Run As-> Java Application.
 5) After running application make sure in console window whether there is any error or not and then go to your local browser enter localhost:8080 and you can see 
-your application booyeahhhh!!!
+your application was running booyeahhhh!!!
